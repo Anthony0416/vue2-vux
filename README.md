@@ -1,4 +1,4 @@
-# yxb_doctor_vue2
+# vue2+vux 移动开发模板
 
 > A Vue.js project
 
